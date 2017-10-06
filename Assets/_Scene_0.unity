@@ -632,7 +632,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48f2af4da54504343974a29c44f31924, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  castles: []
+  castles:
+  - {fileID: 1563386810858474, guid: c16f50f8d49a7b644b8f1021f1a62613, type: 2}
+  - {fileID: 1035671871371730, guid: adaf6b1e993f7aa4291457cb05422222, type: 2}
+  - {fileID: 1022721925006082, guid: c87169fb28fc9df4496ffd587145179e, type: 2}
+  - {fileID: 1776774540682654, guid: d7f635233b2322f429e11944e8adcecf, type: 2}
   gtLevel: {fileID: 203889159}
   gtScore: {fileID: 1521233159}
   castlePos: {x: 50, y: -9.5, z: 0}
